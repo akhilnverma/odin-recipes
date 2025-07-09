@@ -1,0 +1,39 @@
+
+*{
+   /* background-image: url(/home/akhilnverma/repos/odin-recipes/multi-cusines.jpg); */
+background-color: rgb(167, 73, 73);
+color: white;}
+div{
+ text-align: center;
+
+}
+.heading
+{color: rgb(195, 195, 214);
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+font-size:50px;
+padding: 5px;
+border: 10px;
+border-color: black;
+border-style:groove;
+margin: 10px;
+width: fit-content;
+align-items: center;
+margin-left: 520px;
+margin-bottom: 30px;
+}
+.button
+{
+    font-size: 30px;
+    font-family:fantasy;
+    font-style: italic;
+    padding: 5px;
+    border: 10px;
+    border-color: grey;
+    border-style: groove;
+    margin: 20px;
+    width: 200px;
+/* align-items: center; */
+margin-left: 520px;
+margin-bottom: 30px;
+}
