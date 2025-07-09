@@ -1,12 +1,18 @@
 
 *{
-   /* background-image: url(/home/akhilnverma/repos/odin-recipes/multi-cusines.jpg); */
-background-color: rgb(167, 73, 73);
-color: white;}
+   background: url(/home/akhilnverma/repos/odin-recipes/multi-cusines.jpg);
+/* background-color: rgb(167, 73, 73); */
+color: white;
+background-repeat: no-repeat;
+background-size: 1500px 800px;}
 div{
  text-align: center;
 
 }
+/* .image,*{
+    background-image: url(/home/akhilnverma/repos/odin-recipes/multi-cusines.jpg);
+height:fit-content ;
+} */
 .heading
 {color: rgb(195, 195, 214);
 font-weight: bold;
@@ -16,11 +22,12 @@ padding: 5px;
 border: 10px;
 border-color: black;
 border-style:groove;
-margin: 10px;
+/* margin: 10px; */
 width: fit-content;
 align-items: center;
-margin-left: 520px;
-margin-bottom: 30px;
+/* margin-left: 520px;
+margin-bottom: 30px; */
+margin: 0 auto;
 }
 .button
 {
@@ -34,6 +41,7 @@ margin-bottom: 30px;
     margin: 20px;
     width: 200px;
 /* align-items: center; */
-margin-left: 520px;
-margin-bottom: 30px;
+/* margin-left: 550px;
+margin-bottom: 30px; */
+margin: 20px auto;
 }
